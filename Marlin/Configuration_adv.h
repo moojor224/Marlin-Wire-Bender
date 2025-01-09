@@ -4009,8 +4009,10 @@
  * Startup commands
  *
  * Execute certain G-code commands immediately after power-on.
+ * 
+ * Separate multiple gcodes with '\n'
  */
-//#define STARTUP_COMMANDS "M17 Z"
+#define STARTUP_COMMANDS "M280 P0 S0\nM150 B255 I0 P90 R0 S0 U0\n"
 
 /**
  * G-code Macros

@@ -1,6 +1,6 @@
 # Marlin-based wire bender
 
-this repository is a fork of the marlin firmware for 3d printers, with configs made for the SKR V1.4 board, designed to be used as a cnc wire bending machine. See the main repository at []() for more info
+this repository is a fork of the marlin firmware for 3d printers, with configs made for the SKR V1.4 board, designed to be used as a cnc wire bending machine. See the main repository at [moojor224/Marlin-Wire-Bender](https://github.com/moojor224/Marlin-Wire-Bender/) for more info
 
 <hr>
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
